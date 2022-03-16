@@ -1,0 +1,1 @@
+/bin/cp -rf ./scripts/contracts/*.json ./frontend/src/contracts/
